@@ -12,9 +12,7 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 ## Visit the clone 
 
-Production Build [Vercel](https://airbnb-clone-c1heh64gx-ayushitachi.vercel.app/):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+Production Build [Airbnb Clone](https://airbnb-clone-c1heh64gx-ayushitachi.vercel.app/):
 
 ## How to use
 
